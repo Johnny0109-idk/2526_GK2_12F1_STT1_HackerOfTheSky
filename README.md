@@ -19,8 +19,14 @@
     </a>
   </p>
 
-
+Thành viên,Phân công
+[Tên Thành Viên 1],"Trưởng dự án, Thiết kế kiến trúc Frontend và trang Chủ (Homepage)"
+[Tên Thành Viên 2],Thiết kế UI/UX trên Figma và Quản lý tài nguyên hình ảnh (Assets)
+[Tên Thành Viên 3],Phát triển logic Giỏ hàng (Cart) và trang Chi tiết sản phẩm
+[Tên Thành Viên 4],Tối ưu hóa giao diện trên di động (Responsive) và Kiểm thử (QA)
+[Tên Thành Viên 5],"Xây dựng nội dung (Content), SEO và Viết tài liệu hướng dẫn (Documentation)"
 ---
+
 
 
 
