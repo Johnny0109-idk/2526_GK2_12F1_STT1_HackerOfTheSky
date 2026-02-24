@@ -5,12 +5,12 @@
   <br>
   <br>
 
-  <kbd><b><h1 align="center">👟 FASHION HUB UI KIT</h1></b></kbd>
+  <kbd><b><h1 align="center">👟 Tình Ái Club</h1></b></kbd>
 
   <p align="center">
-    <strong>Giao diện Thương mại điện tử hiện đại tối ưu</strong>
+    <strong>Check us out braudi</strong>
     <br />
-    <i>Hỗ trợ hiển thị trang phục, giày dép và phụ kiện với phong cách Streetwear tối giản.</i>
+    <i>Show and sell trang phục, giày dép và phụ kiện với phong cách Streetwear tối giản.</i>
   </p>
 
   <p align="center">
@@ -21,6 +21,7 @@
 
 
 ---
+
 
 
 
