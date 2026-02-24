@@ -1,0 +1,160 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand strong {
+  font-size: 1.5rem;
+}
+
+.nav-icon:hover {
+  animation: shake 0.3s ease-in-out;
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-2px); }
+  50% { transform: translateX(2px); }
+  75% { transform: translateX(-2px); }
+  100% { transform: translateX(0); }
+}
+
+
+.carousel-inner {
+  max-height: 500px;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 500px;
+  width: 100%;
+}
+
+.carousel-caption h1 {
+  font-size: 2rem;
+}
+
+.carousel-caption p {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.card:hover img,
+.carousel-item img:hover {
+  transform: scale(1.03);
+  transition: transform 0.4s ease;
+}
+
+
+.card-title {
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.card-text {
+  font-size: 1.1rem;
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+}
+
+.btn-danger {
+  background-color: #d63384;
+  border-color: #d63384;
+}
+
+.btn-danger:hover {
+  background-color: #c31b6c;
+  border-color: #c31b6c;
+}
+
+.btn-danger:hover, .btn-outline-danger:hover {
+  animation: pulse 0.3s ease-in-out;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+  100% { transform: scale(1); }
+}
+
+.btn-outline-danger {
+  border-color: #d63384;
+  color: #d63384;
+}
+
+.btn-outline-danger:hover {
+  background-color: #d63384;
+  color: white;
+}
+
+footer a {
+  transition: color 0.3s;
+}
+
+footer a:hover {
+  color: #ff77b8;
+}
+
+#searchBox {
+  position: absolute;
+  top: 100%;
+  right: 20px;
+  width: 200px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  display: none;
+  z-index: 9999;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#searchBox.show {
+  display: block;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+footer a:hover {
+  transform: translateY(-3px);
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+
+@media (max-width: 767px) {
+  .carousel-caption h1 {
+    font-size: 2rem;
+  }
+  .carousel-caption p {
+    font-size: 1rem;
+  }
+  .navbar-brand strong {
+    font-size: 1.25rem;
+  }
+  .card-title {
+    font-size: 1rem;
+  }
+  .card-text {
+    font-size: 0.95rem;
+  }
+  .carousel-inner, .carousel-item img {
+    max-height: 1000px;
+    height: 500px;
+  }
+}
