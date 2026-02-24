@@ -19,13 +19,38 @@
     </a>
   </p>
 
-Thành viên,Phân công
-[Tên Thành Viên 1],"Trưởng dự án, Thiết kế kiến trúc Frontend và trang Chủ (Homepage)"
-[Tên Thành Viên 2],Thiết kế UI/UX trên Figma và Quản lý tài nguyên hình ảnh (Assets)
-[Tên Thành Viên 3],Phát triển logic Giỏ hàng (Cart) và trang Chi tiết sản phẩm
-[Tên Thành Viên 4],Tối ưu hóa giao diện trên di động (Responsive) và Kiểm thử (QA)
-[Tên Thành Viên 5],"Xây dựng nội dung (Content), SEO và Viết tài liệu hướng dẫn (Documentation)"
+<table width="100%">
+  <thead>
+    <tr align="left">
+      <th width="30%">👤 Thành viên</th>
+      <th width="70%">📝 Phân công nhiệm vụ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Nguyễn Văn A</b></td>
+      <td>Phát triển giao diện chính (Home, Product Listing) và tối ưu Responsive.</td>
+    </tr>
+    <tr>
+      <td><b>Trần Thị B</b></td>
+      <td>Thiết kế UI/UX trên Figma và xử lý hệ thống Design System (Colors, Typography).</td>
+    </tr>
+    <tr>
+      <td><b>Lê Văn C</b></td>
+      <td>Xây dựng logic giỏ hàng (Cart functionality) và trang thanh toán (Checkout UI).</td>
+    </tr>
+    <tr>
+      <td><b>Phạm Minh D</b></td>
+      <td>Quản lý dữ liệu sản phẩm mẫu (Mock data) và tích hợp các hiệu ứng Animation.</td>
+    </tr>
+    <tr>
+      <td><b>Hoàng Anh E</b></td>
+      <td>Viết tài liệu kỹ thuật, hướng dẫn sử dụng và kiểm thử lỗi hiển thị (Cross-browser testing).</td>
+    </tr>
+  </tbody>
+</table>
 ---
+
 
 
 
