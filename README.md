@@ -28,28 +28,29 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Nguyễn Văn A</b></td>
+      <td><b>Hà Tiểu Cường</b></td>
       <td>Phát triển giao diện chính (Home, Product Listing) và tối ưu Responsive.</td>
     </tr>
     <tr>
-      <td><b>Trần Thị B</b></td>
+      <td><b>Đinh Trí Dũng</b></td>
       <td>Thiết kế UI/UX trên Figma và xử lý hệ thống Design System (Colors, Typography).</td>
     </tr>
     <tr>
-      <td><b>Lê Văn C</b></td>
+      <td><b>Lê Dương Kha</b></td>
       <td>Xây dựng logic giỏ hàng (Cart functionality) và trang thanh toán (Checkout UI).</td>
     </tr>
     <tr>
-      <td><b>Phạm Minh D</b></td>
-      <td>Quản lý dữ liệu sản phẩm mẫu (Mock data) và tích hợp các hiệu ứng Animation.</td>
+      <td><b>Phạm Nguyễn Minh Thư</b></td>
+      <td>Tích hợp các hiệu ứng Animation.</td>
     </tr>
     <tr>
-      <td><b>Hoàng Anh E</b></td>
-      <td>Viết tài liệu kỹ thuật, hướng dẫn sử dụng và kiểm thử lỗi hiển thị (Cross-browser testing).</td>
+      <td><b>Nguyễn Thanh Thư</b></td>
+      <td>Viết tài liệu kỹ thuật và kiểm thử lỗi hiển thị.</td>
     </tr>
   </tbody>
 </table>
 ---
+
 
 
 
